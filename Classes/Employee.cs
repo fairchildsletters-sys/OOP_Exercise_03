@@ -1,6 +1,6 @@
 /****************/
-// Mã sinh viên: [YOUR_STUDENT_ID]
-// Họ tên:       [YOUR_FULL_NAME]
+// Mã sinh viên: 202418838
+// Họ tên:       Bùi Tuấn Anh
 /****************/
 
 using System;

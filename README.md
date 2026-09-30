@@ -2,6 +2,10 @@
 
 Chương trình cài đặt hướng đối tượng (OOP) bằng C# (.NET), hiện thực hóa các nguyên lý kế thừa, đa hình, quan hệ kết tập không sở hữu và các bất biến nghiệp vụ theo yêu cầu.
 
+Thông tin sinh viên:
+- Mã sinh viên: 202418838
+- Họ tên:       Bùi Tuấn Anh
+
 ---
 
 ## 1. Kiến trúc và Các nguyên lý OOP
